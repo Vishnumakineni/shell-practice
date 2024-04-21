@@ -3,5 +3,5 @@
 echo "enter username:"
 read $USERNAME
 echo "enter password:"
-read -s $password
-echo $username  $password
+read -s $PASSWORD
+echo $USERNAME  $PASSWORD
